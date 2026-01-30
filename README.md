@@ -1,26 +1,29 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-<h2>👋 Hi, I'm Ismaeil Mahmoud</h2>
+<h2>👋 Hi, I'm Ismail Mahmoud (Ismail-abozaid-2006)</h2>
 <h4>Web Developer | Data Analyst</h4>
 
 <details>
-<p><strong><summary> 💻 Busy coding & analyzing data to :</summary></strong></p>
+<p><strong><summary> 💻 Currently coding to :</summary></strong></p>
 
-🎧 Lo-fi / Focus Music / Podcasts
+🎧 Focus Music / Web Projects / Data Visualization
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=IsmaeilMahmoud&style=flat&color=orange&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/IsmaeilMahmoud?style=flat)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=Ismail-abozaid-2006&style=flat&color=orange&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Ismail-abozaid-2006?style=flat)](https://github.com/Ismail-abozaid-2006?tab=followers)
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/ismail-abo-zaid/) • [Telegram](https://t.me/your-username)
 
 </div>
 
 ---
 
-## 🚀 Tools & Technologies I Use
+## 🛠 Tools & Technologies I Use
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -34,14 +37,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-### 🗄 Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
@@ -50,10 +46,8 @@
 
 const ismaeil = {
   role: ["Web Developer", "Data Analyst"],
-  languages: ["JavaScript", "Python", "SQL"],
   web: ["HTML", "CSS", "Bootstrap", "React"],
-  data: ["Pandas", "NumPy", "Power BI", "Excel"],
-  databases: ["MySQL", "SQL Server"],
-  tools: ["Git", "GitHub", "VS Code"],
-  goal: "Build clean web apps & turn data into insights"
+  data: ["Python", "Pandas", "NumPy", "Power BI", "SQL"],
+  tools: ["VS Code", "GitHub"],
+  goal: "Build clean web apps and insightful data projects"
 };
